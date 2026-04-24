@@ -1,7 +1,7 @@
 # Hi, I’m Ansh Vardhan Singh 👋
 
 ### 🚀 CSE (AI-ML) Student @ PES University
-I’m a developer focused on the intersection of **Artificial Intelligence** and **Modern Web Architecture**. I build high-velocity MVPs and explore the frontiers of Neural Networks and Quantum Computing.
+I’m a developer focused on the **Artificial Intelligence** and **Machine Learning**. I like resaerching on AI-ML and Quantum Computing.
 
 ---
 
