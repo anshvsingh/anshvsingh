@@ -8,6 +8,7 @@ I’m a developer focused on the **Artificial Intelligence** and **Machine Learn
 ### 🛠️ Some Of My Pinned Projects And Research:
 * **[Grace](https://github.com/your-repo-link)**: An AI-powered SaaS MVP Generator built with Next.js, Groq (LLaMA 3.3 70B), and Supabase.
 * **Pneumonia Detection**: A Deep Learning project utilizing Convolutional Neural Networks (CNNs) to identify medical anomalies in X-ray imagery.
+* **SENTIMENT-DRIVEN-ALGORITHMIC-TRADING-AGENT**: Autonomous stock trading agent combining PPO reinforcement learning, FinBERT sentiment analysis, and technical indicators (RSI, MACD, Bollinger Bands)
 * **Quantum Research**: Exploring QKD protocols and QAOA for optimization problems.
 
 ---
